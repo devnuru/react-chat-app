@@ -1,7 +1,7 @@
 https://reactchat-application.netlify.app/
 
 
-https://github.com/devnuru/react-chat-app/blob/main/Screenshot_9.png
+https://raw.githubusercontent.com/devnuru/react-chat-app/main/Screenshot_9.png
 
 
 
